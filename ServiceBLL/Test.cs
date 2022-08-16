@@ -6,6 +6,7 @@ namespace ServiceBLL
     {
         void ITest.Test()
         {
+            //Test
             Console.WriteLine("Test");
         }
     }
